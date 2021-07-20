@@ -3,12 +3,12 @@ entries:
   oneview_helm_template:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2021-07-20T10:06:21.456226+01:00"
+    created: "2021-07-20T10:08:01.737603+01:00"
     description: A Helm chart used as a base for all oneview healthcare microservices
-    digest: a8cd7eaa8a3890cbb863cfaa10fc4e8860289eaae68e37874bee85c5c065a4e7
+    digest: 0a081d8806ed4f3d166035d44166788fe36e7d93928fa2ffbb58cca7de68e6ec
     name: oneview_helm_template
     type: library
     urls:
     - oneview_helm_template-0.1.0.tgz
     version: 0.1.0
-generated: "2021-07-20T10:06:21.452267+01:00"
+generated: "2021-07-20T10:08:01.733951+01:00"
